@@ -1,4 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+@font-face {
+  font-family: 'GIUN_TAHOMA';
+  src: url('https://raw.githubusercontent.com/antoniushoang/fonts/master/TAHOMA.woff')
+    format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GIUN_TAHOMA';
+  src: url('https://raw.githubusercontent.com/antoniushoang/fonts/master/tahomabd.woff')
+    format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
 
 * {
   box-sizing: border-box;
@@ -7,7 +20,7 @@
 }
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'GIUN_TAHOMA', sans-serif;
 }
 
 p {

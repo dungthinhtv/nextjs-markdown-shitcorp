@@ -1,8 +1,8 @@
 ---
-title: 'Django Crash Course'
-date: 'March 5, 2021'
-excerpt: 'Django is a very powerful, high level Python framework for building web applications'
-cover_image: '/images/posts/img3.jpg'
+title: "EXCITED EV: HỚIMƯNG XEDIỆN"
+date: "May 5, 2022"
+excerpt: "Maymắn nha. Ông Vinh Phát E34 leo vỉahè (chiếm mẹ dất nhà ai déo tỏ) trước-khi Bin sạch mẹ không còn tẹo diện nào. Dến quả cửa-kính cũng không bấm kịp."
+cover_image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIsOsFBRo0Y4Yoyx_Rel3Rp_MLiJ9djucBDyjC0hGAxDZocN1a-fYbNPYKiImwcFT3u_lAobQ2BbcvXKiqQtRDyYBx0PUNJo37y0ubF8MHHO9CH7b2Flt4YRLkgVRSpGyDDUnVZDOVSVqcBigQuj-p9y9IX76eBRICYw7d9JRC5cWAAMG7JSK2WWshxA/s540/vinfast-e34-rain.jpg"
 ---
 
 Xediện quốczân của chúng Má dây:
